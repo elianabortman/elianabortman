@@ -37,7 +37,9 @@ Browse my repositories to see examples of my work in geospatial analysis, data e
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elianabortman)
-[![Maps](https://img.shields.io/badge/Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
+
+<!-- Add your mapping portfolio or project links here -->
+<!-- [![Maps](https://img.shields.io/badge/Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](YOUR_MAPS_PORTFOLIO_URL) -->
 
 ---
 
