@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Eliana 👋
 
-<!--
-**elianabortman/elianabortman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Geospatial scientist with experience in GIS, spatial analysis, and data pipelines for ecological and engineering applications. Interested in using Python, SQL, and geospatial tools to support environmental decision-making and infrastructure planning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Focus Areas
+
+- **GIS & Spatial Analysis** - Working with geospatial data for environmental and engineering insights
+- **Python Development** - Building data pipelines and automation tools
+- **Data Engineering** - Designing robust data workflows and ETL processes
+- **Environmental Applications** - Supporting ecological research and decision-making
+
+## 🛠️ Tools & Technologies
+
+**Languages & Libraries**
+- Python (Pandas, GeoPandas, NumPy, Matplotlib)
+- SQL
+- R
+
+**GIS & Spatial Tools**
+- ArcGIS & ArcGIS Pro
+- QGIS
+- PostGIS
+- GDAL/OGR
+
+**Data & Development**
+- Git & GitHub
+- Jupyter Notebooks
+- PostgreSQL
+- Docker
+
+## 📂 Featured Projects
+
+Browse my repositories to see examples of my work in geospatial analysis, data engineering, and Python development.
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elianabortman)
+[![Maps](https://img.shields.io/badge/Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
+
+---
+
+💼 Open to opportunities in geospatial data science, environmental analytics, and data engineering roles.
