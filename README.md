@@ -1,4 +1,4 @@
-# Hi, I'm Eliana 👋
+# Hi, I'm Eliana
 
 ## About Me
 
@@ -14,12 +14,12 @@ Geospatial scientist with experience in GIS, spatial analysis, and data pipeline
 ## 🛠️ Tools & Technologies
 
 **Languages & Libraries**
-- Python (Pandas, GeoPandas, NumPy, Matplotlib)
+- Python (pandas, geopandas, numpy, matplotlib, rasterio, shapely, networkx, pyproj, xarray)
 - SQL
 - R
 
 **GIS & Spatial Tools**
-- ArcGIS & ArcGIS Pro
+- ArcGIS Pro & ArcGIS Online
 - QGIS
 - PostGIS
 - GDAL/OGR
@@ -29,6 +29,7 @@ Geospatial scientist with experience in GIS, spatial analysis, and data pipeline
 - Jupyter Notebooks
 - PostgreSQL
 - Docker
+- FME
 
 ## 📂 Featured Projects
 
@@ -36,11 +37,11 @@ Browse my repositories to see examples of my work in geospatial analysis, data e
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elianabortman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliana-bortman-655587177)
 
-<!-- Add your mapping portfolio or project links here -->
+<!-- project links here -->
 <!-- [![Maps](https://img.shields.io/badge/Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](YOUR_MAPS_PORTFOLIO_URL) -->
 
 ---
 
-💼 Open to opportunities in geospatial data science, environmental analytics, and data engineering roles.
+💼 Open to opportunities in geospatial data science, environmental analytics, and data/civil/environmental engineering roles.
