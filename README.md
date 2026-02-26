@@ -51,16 +51,11 @@ Browse my repositories to see examples of my work in geospatial and spatiotempor
 
 <p align="center">
   <img src="(https://github.com/user-attachments/assets/cb23873e-8792-4d47-810f-a11e78f776b8)" width="45%">
-  <img src="https://github.com/user-attachments/assets/90a60e4a-6a59-4b2f-92ac-85ec44b2509d" width="45%">
+  <img src="https://github.com/user-attachments/assets/90a60e4a-6a59-4b2f-92ac-85ec44b2509d" width="40%">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0952005b-d0bf-4b3d-8376-23ebfae5da5f" width="700">
+  <img src="https://github.com/user-attachments/assets/0952005b-d0bf-4b3d-8376-23ebfae5da5f" width="650">
 </p>
-
-![glaciallakesfinalmap](https://github.com/user-attachments/assets/cb23873e-8792-4d47-810f-a11e78f776b8)
-![SPUE](https://github.com/user-attachments/assets/90a60e4a-6a59-4b2f-92ac-85ec44b2509d)
-[GeoSciencePosterWetlandMigration.pdf](https://github.com/user-attachments/files/25582564/GeoSciencePosterWetlandMigration.pdf)
-![GeoSciencePosterWetlandMigration](https://github.com/user-attachments/assets/0952005b-d0bf-4b3d-8376-23ebfae5da5f)
 
 ---
 
