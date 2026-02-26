@@ -54,7 +54,7 @@ Browse my repositories to see examples of my work in geospatial and spatiotempor
   <img src="https://github.com/user-attachments/assets/90a60e4a-6a59-4b2f-92ac-85ec44b2509d" width="40%">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0952005b-d0bf-4b3d-8376-23ebfae5da5f" width="650">
+  <img src="https://github.com/user-attachments/assets/70920138-74a4-41b3-8eb6-5efd53115948" width="650">
 </p>
 
 ---
