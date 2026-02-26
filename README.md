@@ -17,23 +17,29 @@ Geospatial scientist with experience in GIS, spatial analysis, and data pipeline
 - Python (pandas, geopandas, numpy, matplotlib, rasterio, shapely, networkx, pyproj, xarray)
 - SQL
 - R
+- Javascript
+- HTML
+- CSS
 
 **GIS & Spatial Tools**
 - ArcGIS Pro & ArcGIS Online
 - QGIS
 - PostGIS
 - GDAL/OGR
+- Autodesk Revit
 
-**Data & Development**
+**Data & Development/Other Platforms & Tools**
 - Git & GitHub
 - Jupyter Notebooks
 - PostgreSQL
 - Docker
 - FME
+- UML
+- Node.js
 
 ## 📂 Featured Projects
 
-Browse my repositories to see examples of my work in geospatial analysis, data engineering, and Python development.
+Browse my repositories to see examples of my work in geospatial and spatiotemporal analysis.
 
 ## 🔗 Connect With Me
 
@@ -41,6 +47,10 @@ Browse my repositories to see examples of my work in geospatial analysis, data e
 
 <!-- project links here -->
 <!-- [![Maps](https://img.shields.io/badge/Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](YOUR_MAPS_PORTFOLIO_URL) -->
+## Glimpse into my GIS and geospatial analysis visualizations
+![glaciallakesfinalmap](https://github.com/user-attachments/assets/cb23873e-8792-4d47-810f-a11e78f776b8)
+![SPUE](https://github.com/user-attachments/assets/90a60e4a-6a59-4b2f-92ac-85ec44b2509d)
+[GeoSciencePosterWetlandMigration.pdf](https://github.com/user-attachments/files/25582564/GeoSciencePosterWetlandMigration.pdf)
 
 ---
 
