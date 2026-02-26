@@ -50,7 +50,7 @@ Browse my repositories to see examples of my work in geospatial and spatiotempor
 ## Glimpse into my GIS and geospatial analysis visualizations
 
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/cb23873e-8792-4d47-810f-a11e78f776b8)" width="45%">
+  <img src="https://github.com/user-attachments/assets/cb23873e-8792-4d47-810f-a11e78f776b8" width="45%">
   <img src="https://github.com/user-attachments/assets/90a60e4a-6a59-4b2f-92ac-85ec44b2509d" width="40%">
 </p>
 <p align="center">
